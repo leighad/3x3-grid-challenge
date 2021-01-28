@@ -110,7 +110,7 @@ def count_active_cells_center(grid_array)
       end
     end
     puts counter - 1
-  end
+end
   
   # count_active_cells_center(grid_one)
   # count_active_cells_center(grid_two)
